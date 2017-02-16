@@ -6,38 +6,13 @@ Project brand assets and guidelines for ReactPHP.
 Logo
 ----
 
-| Name         | SVG                                                                      | PNG                                                                      |
-|:-------------|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|
-| Logo         | [![Logo][img-logo-svg]][link-logo-svg]                                   | [![Logo][img-logo-png]][link-logo-png]                                   |
-| Symbol       | [![Symbol][img-logo-svg-symbol]][link-logo-svg-symbol]                   | [![Symbol][img-logo-png-symbol]][link-logo-png-symbol]                   |
-| Symbol Shape | [![Symbol Shape][img-logo-svg-symbol-shape]][link-logo-svg-symbol-shape] | [![Symbol Shape][img-logo-png-symbol-shape]][link-logo-png-symbol-shape] |
-| Type         | [![Type][img-logo-svg-type]][link-logo-svg-type]                         | [![Type][img-logo-png-type]][link-logo-png-type]                         |
-| Icon         | [![Icon][img-logo-svg-icon]][link-logo-svg-icon]                         | [![Icon][img-logo-png-icon]][link-logo-png-icon]                         |
-
-[img-logo-svg]: https://rawgit.com/reactphp/branding/master/preview/reactphp-logo.svg
-[link-logo-svg]: reactphp-logo.svg
-[img-logo-png]: https://rawgit.com/reactphp/branding/master/preview/reactphp-logo.png
-[link-logo-png]: reactphp-logo.png
-
-[img-logo-svg-symbol]: https://rawgit.com/reactphp/branding/master/preview/reactphp-symbol.svg
-[link-logo-svg-symbol]: reactphp-symbol.svg
-[img-logo-png-symbol]: https://rawgit.com/reactphp/branding/master/preview/reactphp-symbol.png
-[link-logo-png-symbol]: reactphp-symbol.png
-
-[img-logo-svg-symbol-shape]: https://rawgit.com/reactphp/branding/master/preview/reactphp-symbol-shape.svg
-[link-logo-svg-symbol-shape]: reactphp-symbol-shape.svg
-[img-logo-png-symbol-shape]: https://rawgit.com/reactphp/branding/master/preview/reactphp-symbol-shape.png
-[link-logo-png-symbol-shape]: reactphp-symbol-shape.png
-
-[img-logo-svg-type]: https://rawgit.com/reactphp/branding/master/preview/reactphp-type.svg
-[link-logo-svg-type]: reactphp-type.svg
-[img-logo-png-type]: https://rawgit.com/reactphp/branding/master/preview/reactphp-type.png
-[link-logo-png-type]: reactphp-type.png
-
-[img-logo-svg-icon]: https://rawgit.com/reactphp/branding/master/preview/reactphp-icon.svg
-[link-logo-svg-icon]: reactphp-icon.svg
-[img-logo-png-icon]: https://rawgit.com/reactphp/branding/master/preview/reactphp-icon.png
-[link-logo-png-icon]: reactphp-icon.png
+| Name         | SVG                                                                                                                                                             | PNG                                                                                                                                                             |
+|:-------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Logo         | <a href="reactphp-logo.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.svg" alt="Logo (SVG)" height="240"></a>                         | <a href="reactphp-logo.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.png" alt="Logo (PNG)" height="240"></a>                         |
+| Symbol       | <a href="reactphp-symbol.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.svg" alt="Symbol (SVG)" height="160"></a>                   | <a href="reactphp-symbol.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.png" alt="Symbol (PNG)" height="160"></a>                   |
+| Symbol Shape | <a href="reactphp-symbol-shape.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol-shape.svg" alt="Symbol Shape (SVG)" height="160"></a> | <a href="reactphp-symbol-shape.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol-shape.png" alt="Symbol Shape (PNG)" height="160"></a> |
+| Type         | <a href="reactphp-type.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.svg" alt="Type (SVG)" height="40"></a>                          | <a href="reactphp-type.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.png" alt="Type (PNG)" height="40"></a>                          |
+| Icon         | <a href="reactphp-icon.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-icon.svg" alt="Icon (SVG)" height="80"></a>                          | <a href="reactphp-icon.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-icon.png" alt="Icon (PNG)" height="80"></a>                          |
 
 Color Palette
 -------------
