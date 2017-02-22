@@ -22,7 +22,7 @@ Color Palette
 |:-----------------|:----------|:----------------|:-----------------------------------------------------|
 | Key Color        | `#8892bf` | `136, 146, 191` | ![#8892bf](http://placehold.it/300x30/8892bf/8892bf) |
 | Base Color       | `#333333` | `51, 51, 51`    | ![#333333](http://placehold.it/300x30/333333/333333) |
-| Background Color | `#dddddd` | `221, 221, 221` | ![#333333](http://placehold.it/300x30/dddddd/dddddd) |
+| Background Color | `#eeeeee` | `238, 238, 238` | ![#eeeeee](http://placehold.it/300x30/eeeeee/eeeeee) |
 
 Naming
 ------
