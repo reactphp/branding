@@ -6,11 +6,11 @@ Project brand assets and guidelines for ReactPHP.
 Logo
 ----
 
-| Name         | SVG                                                                                                                                          | PNG                                                                                                                                          |
-|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| Logo         | <a href="reactphp-logo.svg"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-logo.svg" alt="Logo (SVG)" width="160"></a>       | <a href="reactphp-logo.png"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-logo.png" alt="Logo (PNG)" width="160"></a>       |
-| Symbol       | <a href="reactphp-symbol.svg"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-symbol.svg" alt="Symbol (SVG)" width="160"></a> | <a href="reactphp-symbol.png"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-symbol.png" alt="Symbol (PNG)" width="160"></a> |
-| Type         | <a href="reactphp-type.svg"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-type.svg" alt="Type (SVG)" width="320"></a>       | <a href="reactphp-type.png"><img src="https://rawgit.com/jsor-labs/branding/new-logo/reactphp-type.png" alt="Type (PNG)" width="320"></a>       |
+| Name   | SVG                                                                                                                                          | PNG                                                                                                                                          |
+|:-------|:--------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| Logo   | <a href="reactphp-logo.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.svg" alt="Logo (SVG)" width="160"></a>       | <a href="reactphp-logo.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.png" alt="Logo (PNG)" width="160"></a>       |
+| Symbol | <a href="reactphp-symbol.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.svg" alt="Symbol (SVG)" width="160"></a> | <a href="reactphp-symbol.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.png" alt="Symbol (PNG)" width="160"></a> |
+| Type   | <a href="reactphp-type.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.svg" alt="Type (SVG)" width="320"></a>       | <a href="reactphp-type.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.png" alt="Type (PNG)" width="320"></a>       |
 
 Color Palette
 -------------
