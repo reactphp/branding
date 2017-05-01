@@ -36,6 +36,7 @@ Credits
 
 * Logo type font: [Raleway](https://github.com/impallari/Raleway/)
 * Color scheme adapted from [php.net](https://php.net)
+* The license has been inspired by the [webpack media license](https://github.com/webpack/media/blob/master/LICENSE)
 
 License
 -------
