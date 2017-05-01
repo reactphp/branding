@@ -31,10 +31,11 @@ Credits
 -------
 
 * Logo type font: [Viga](https://fonts.google.com/specimen/Viga)
+* The license has been inspired by the [webpack media license](https://github.com/webpack/media/blob/master/LICENSE)
 
 License
 -------
 
 Copyright (c) 2017 by the ReactPHP project.
 
-Released under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+The logo and the brand name **are not MIT licensed**. Please check [our LICENSE](https://github.com/reactphp/branding/blob/master/LICENSE) for usage guidelines.
