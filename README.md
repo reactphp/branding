@@ -11,6 +11,7 @@ Logo
 | Logo   | <a href="reactphp-logo.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.svg" alt="Logo (SVG)" width="160"></a>       | <a href="reactphp-logo.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-logo.png" alt="Logo (PNG)" width="160"></a>       |
 | Symbol | <a href="reactphp-symbol.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.svg" alt="Symbol (SVG)" width="160"></a> | <a href="reactphp-symbol.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-symbol.png" alt="Symbol (PNG)" width="160"></a> |
 | Type   | <a href="reactphp-type.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.svg" alt="Type (SVG)" width="320"></a>       | <a href="reactphp-type.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-type.png" alt="Type (PNG)" width="320"></a>       |
+| Icon   | <a href="reactphp-icon.svg"><img src="https://rawgit.com/reactphp/branding/master/reactphp-icon.svg" alt="Icon (SVG)" width="320"></a>       | <a href="reactphp-icon.png"><img src="https://rawgit.com/reactphp/branding/master/reactphp-icon.png" alt="Icon (PNG)" width="320"></a>       |
 
 Color Palette
 -------------
