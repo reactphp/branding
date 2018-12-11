@@ -32,7 +32,7 @@ Credits
 -------
 
 * Logo type font: [Viga](https://fonts.google.com/specimen/Viga)
-* The license has been inspired by the [webpack media license](https://github.com/webpack/media/blob/master/LICENSE)
+* The license has been inspired by the [webpack media license](https://github.com/webpack/media/blob/37b4686e9e6b4725813167e9e5605464870d0ecb/LICENSE)
 
 License
 -------
